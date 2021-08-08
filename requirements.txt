@@ -10,6 +10,7 @@ intervals==0.9.1
 orderedmultidict==1.0.1
 passlib==1.7.4
 pyfiglet==0.8.post1
+python==3.7
 PyYAML==5.4.1
 termcolor==1.1.0
 Werkzeug==2.0.1
